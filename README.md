@@ -19,8 +19,13 @@ Trabalho com automação e desenvolvimento de soluções no Salesforce, com foco
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ## 🚀 Projetos em destaque
-- **[Org Limits Monitor](link)**: LWC + Apex para monitorar limites da org, com gráficos e alertas via Flow.
-- *(adicione aqui os próximos projetos, como a biblioteca de Invocable Actions e o pipeline de CI/CD)*
+
+| Projeto | Descrição | Tecnologias |
+|---|---|---|
+| [Org Limits Monitor](https://github.com/JoaoGuilherme777/limit-monitor) | Monitora os limites da org com cards, gráficos de consumo e alertas via Flow | LWC, Apex, Flow, Chart.js |
+| [Busca de CEP/CNPJ](https://github.com/JoaoGuilherme777/cep-cnpj) | Preenche endereço e dados da empresa a partir de CEP e CNPJ, com integração via Named Credential | LWC, Apex, Named Credential |
+| [Invocable Actions para Flow](https://github.com/JoaoGuilherme777/invocable-actions-library) | Biblioteca de ações reutilizáveis para Flow: validação de CPF/CNPJ, dias úteis, slug, split e consulta segura | Apex, Invocable Actions |
+| [Logger com Platform Events](https://github.com/JoaoGuilherme777/logger-platform-events) | Framework de log que persiste registros mesmo em caso de rollback, com visualização em LWC | Apex, Platform Events, LWC |
 
 ## 📫 Contato
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joão-guilherme-morais-andrade-51b1a6230/)
