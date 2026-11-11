@@ -22,11 +22,12 @@ Trabalho com automação e desenvolvimento de soluções no Salesforce, com foco
 
 | Projeto | Descrição | Tecnologias |
 |---|---|---|
-| [Org Limits Monitor](https://github.com/JoaoGuilherme777/limit-monitor) | Monitora os limites da org com cards, gráficos de consumo e alertas via Flow | LWC, Apex, Flow, Chart.js |
-| [Busca de CEP/CNPJ](https://github.com/JoaoGuilherme777/cep-cnpj) | Preenche endereço e dados da empresa a partir de CEP e CNPJ, com integração via Named Credential | LWC, Apex, Named Credential |
-| [Invocable Actions para Flow](https://github.com/JoaoGuilherme777/invocable-actions-library) | Biblioteca de ações reutilizáveis para Flow: validação de CPF/CNPJ, dias úteis, slug, split e consulta segura | Apex, Invocable Actions |
-| [Logger com Platform Events](https://github.com/JoaoGuilherme777/logger-platform-events) | Framework de log que persiste registros mesmo em caso de rollback, com visualização em LWC | Apex, Platform Events, LWC |
-| [Motor de SLA e Escalonamento](https://github.com/JoaoGuilherme777/motor-sla-casos) | Controla o prazo de atendimento por prioridade no Service Cloud, escalona marcos vencidos e abre tarefa para o dono do caso | Apex, Entitlement Process, Flow, Service Cloud |
+| [Org Limits Monitor](https://github.com/JoaoAndradeo/limit-monitor) | Monitora os limites da org com cards, gráficos de consumo e alertas via Flow | LWC, Apex, Flow, Chart.js |
+| [Busca de CEP/CNPJ](https://github.com/JoaoAndradeo/cep-cnpj) | Preenche endereço e dados da empresa a partir de CEP e CNPJ, com integração via Named Credential | LWC, Apex, Named Credential |
+| [Invocable Actions para Flow](https://github.com/JoaoAndradeo/invocable-actions-library) | Biblioteca de ações reutilizáveis para Flow: validação de CPF/CNPJ, dias úteis, slug, split e consulta segura | Apex, Invocable Actions |
+| [Logger com Platform Events](https://github.com/JoaoAndradeo/logger-platform-events) | Framework de log que persiste registros mesmo em caso de rollback, com visualização em LWC | Apex, Platform Events, LWC |
+| [Motor de SLA e Escalonamento](https://github.com/JoaoAndradeo/motor-sla-casos) | Controla o prazo de atendimento por prioridade no Service Cloud, escalona marcos vencidos e abre tarefa para o dono do caso | Apex, Entitlement Process, Flow, Service Cloud |
+| [Agrupamento de Casos por Problema](https://github.com/JoaoAndradeo/case-problem-grouping) | Agrupa casos de uma mesma falha em um Problem nativo, conta os clientes afetados e fecha os casos em lote com a mesma resolução | Apex, LWC, Incident Management, Jest |
 
 Cada repositório tem um README com como o sistema funciona, por que ele importa e qual o ganho.
 
